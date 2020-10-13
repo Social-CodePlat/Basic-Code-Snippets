@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1574902829 source:c:\users\rajat\desktop\all c\pcus\main.c
-	<stdio.h>
-	<pthread.h>
-	<semaphore.h>
-	<windows.h>
-
