@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536498224 source:c:\users\rajat\desktop\all c\stuct_practice\main.c
+	<stdio.h>
+	<stdlib.h>
+

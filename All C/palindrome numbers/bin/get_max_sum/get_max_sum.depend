@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534701246 source:c:\users\rajat\desktop\all c\palindrome numbers\bin\get_max_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

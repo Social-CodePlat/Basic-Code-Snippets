@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537200420 source:c:\users\rajat\desktop\all c\sum_of_two_primes\main.c
+	<stdio.h>
+	<stdlib.h>
+

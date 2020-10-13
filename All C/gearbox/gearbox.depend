@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601792672 source:c:\users\rajat\onedrive\desktop\coding\all c\gearbox\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538109040 source:c:\users\rajat\desktop\all c\random_numbers_generation\main.c
+	<stdio.h>
+	<stdlib.h>
+

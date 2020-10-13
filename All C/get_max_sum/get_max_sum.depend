@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534705554 source:c:\users\rajat\desktop\all c\get_max_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

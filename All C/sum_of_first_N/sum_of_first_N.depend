@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536246066 source:c:\users\rajat\desktop\all c\sum_of_first_n\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574116771 source:c:\users\rajat\desktop\all c\huffman encoding\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538111708 source:c:\users\rajat\desktop\all c\rotate_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

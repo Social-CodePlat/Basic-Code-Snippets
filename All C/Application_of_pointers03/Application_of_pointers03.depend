@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535049883 source:c:\users\rajat\desktop\all c\application_of_pointers03\main.c
+	<stdio.h>
+	<stdlib.h>
+

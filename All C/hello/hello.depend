@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535031233 source:c:\users\rajat\desktop\all c\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534972265 source:c:\users\rajat\desktop\all c\swap_using_third_variable\main.c
+	<stdio.h>
+	<stdlib.h>
+

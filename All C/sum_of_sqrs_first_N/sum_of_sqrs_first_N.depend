@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537206213 source:c:\users\rajat\desktop\all c\sum_of_sqrs_first_n\main.c
+	<stdio.h>
+	<stdlib.h>
+

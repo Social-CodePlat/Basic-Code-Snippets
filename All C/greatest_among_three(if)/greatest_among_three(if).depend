@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536230808 source:c:\users\rajat\desktop\all c\greatest_among_three(if)\main.c
+	<stdio.h>
+	<stdlib.h>
+

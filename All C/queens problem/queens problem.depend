@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537309875 source:c:\users\rajat\desktop\all c\queens problem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
